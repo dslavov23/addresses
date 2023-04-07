@@ -2,12 +2,6 @@
 
 A FastAPI application to manage an address book with CRUD operations and search functionality.
 
-## Requirements
-
-- Python 3.9 or higher
-- FastAPI
-- SQLAlchemy
-
 ## Installation
 
 1. Clone this repository:
